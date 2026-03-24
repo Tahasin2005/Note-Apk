@@ -1,0 +1,5 @@
+{
+  "name": "Smart Offline Notebook",
+  "description": "A feature-rich offline notebook with voice input, text-to-speech, and smart organization.",
+  "requestFramePermissions": ["microphone"]
+}
